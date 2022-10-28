@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello france , hello from Ajaccio
+=======
+Hello Corse , hello from Ajaccio
+>>>>>>> 172b85be710822a77f92cf2264dcdba88e0fb287
